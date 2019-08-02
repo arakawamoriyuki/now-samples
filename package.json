@@ -1,0 +1,12 @@
+{
+  "name": "now-samples",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10 <11",
+    "yarn": ">=1.0"
+  },
+  "dependencies": {
+    "now": "^15.8.5"
+  }
+}
