@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "alias": "arakawamoriyuki-now-php",
+  "builds": [{ "src": "index.php", "use": "@now/php" }],
+  "routes": [{ "src": "(.*)", "dest": "index.php" }]
+}
