@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "alias": "arakawamoriyuki-now-python-flask",
+  "builds": [{ "src": "app.py", "use": "@now/python" }],
+  "routes": [{ "src": "(.*)", "dest": "app.py" }]
+}
