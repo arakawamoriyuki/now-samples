@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "alias": "arakawamoriyuki-now-ruby-sinatra",
+  "builds": [{ "src": "index.ru", "use": "@now/ruby" }],
+  "routes": [{ "src": "(.*)", "dest": "index.ru" }]
+}
