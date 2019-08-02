@@ -1,4 +1,4 @@
-# ruby-sinatra
+# static
 
 https://zeit.co/docs/v2/advanced/builders/static-now-static/
 

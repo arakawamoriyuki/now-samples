@@ -30,6 +30,6 @@ $ now --version
 
 [python flask readme.md](/python-flask)
 
-## static
+## static (html,css,js...)
 
 [static readme.md](/static)
