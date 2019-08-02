@@ -16,20 +16,20 @@ $ now --version
 
 - nodenv (node v10.14.1)
 
-[node readme.md](/node/readme.md)
+[node readme.md](/node)
 
 ## ruby-sinatra
 
 - rbenv (ruby v2.6.3)
 
-[ruby sinatra readme.md](/ruby-sinatra/readme.md)
+[ruby sinatra readme.md](/ruby-sinatra)
 
 ## python-flask
 
 - pyenv (python v3.7.1)
 
-[python flask readme.md](/python-flask/readme.md)
+[python flask readme.md](/python-flask)
 
 ## static
 
-[static readme.md](/static/readme.md)
+[static readme.md](/static)
