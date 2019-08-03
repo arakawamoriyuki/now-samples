@@ -11,7 +11,7 @@ $ bundle install --path vendor/bundle
 ## development
 
 ```
-$ yarn start
+$ bundle exec ruby app.rb
 ```
 
 ## deploy
